@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Docker
+*.log
+docker-compose.override.yml
+*.env
+
+# React
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
